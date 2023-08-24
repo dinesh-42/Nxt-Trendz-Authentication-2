@@ -1,6 +1,6 @@
 import {Redirect} from 'react-router-dom'
 import {Component} from 'react'
-import Cookies from 'js-cookies'
+import Cookies from 'js-cookie'
 
 import './index.css'
 
